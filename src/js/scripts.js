@@ -1,9 +1,5 @@
-(function ($, window, document, undefined) {
-
-  'use strict';
-
-  $(function () {
-    // FastShell
+(function (window, document, undefined) {
+  document.addEventListener('DOMContentLoaded', () => {
+  	// FashShell
   });
-
-})(jQuery, window, document);
+})(window, document);

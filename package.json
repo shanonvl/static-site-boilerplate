@@ -1,18 +1,21 @@
 {
-  "name": "fastshell",
-  "title": "Fiercely quick and opinionated front-ends",
-  "author": "Hossein Karami",
-  "url": "https://HosseinKarami.github.io/fastshell",
-  "version": "1.0.5",
+  "name": "html5-sass-babel-boilerplate",
+  "title": "Web boilerplate with support for HTML5, SASS, and Babel transpilation",
+  "author": "Shanon Levenherz",
+  "url": "https://github.com/shanonvl/html5-sass-babel-boilerplate"
+  "version": "0.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/HosseinKarami/fastshell.git"
+    "url": "https://github.com/shanonvl/html5-sass-babel-boilerplate"
   },
   "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.2",
     "gulp-cssnano": "^2.1.0",
     "gulp-header": "^1.7.1",
     "gulp-jshint": "^2.0.0",

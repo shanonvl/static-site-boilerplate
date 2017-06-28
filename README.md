@@ -1,21 +1,20 @@
-# FastShell
-[![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
+# Static Site Boilerplate
+[![Build Status](https://travis-ci.org/shanonvl/static-site-boilerplate.png?branch=master)](https://travis-ci.org/shanonvl/static-site-boilerplate)
 
-inspired by [FireShell](http://getfireshell.com)
-Fiercely quick front-end boilerplate and workflows.
+> Forked from [FastShell](https://github.com/HosseinKarami/fastshell)
 
-The opinionated FastShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
+Changes from FastShell:
+* Remove jQuery dependency
+* Add Babel transpilation to the `js` task.  
+  - Add `es2015` preset 
 
-* Source: [github.com/HosseinKarami/fastshell](http://github.com/HosseinKarami/fastshell)
-* Documentation: [DOCS.md](https://github.com/HosseinKarami/fastshell/blob/master/DOCS.md)
-* HomePage: [Fastshell](https://HosseinKarami.github.io/fastshell)
-
+* Documentation: [DOCS.md](https://github.com/shanonvl/static-site-boilerplate/blob/master/DOCS.md)
 
 ## License
 
 #### The MIT License (MIT)
 
-Copyright (c) FastShell
+Copyright (c) Shanon Levenherz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
